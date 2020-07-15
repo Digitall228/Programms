@@ -1,0 +1,10 @@
+E:\Programms\GovReestrParser\GovReestrParser\bin\Debug\GovReestrParser.exe.config
+E:\Programms\GovReestrParser\GovReestrParser\bin\Debug\GovReestrParser.exe
+E:\Programms\GovReestrParser\GovReestrParser\bin\Debug\GovReestrParser.pdb
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.csprojAssemblyReference.cache
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.Form1.resources
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.Properties.Resources.resources
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.csproj.GenerateResource.cache
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.csproj.CoreCompileInputs.cache
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.exe
+E:\Programms\GovReestrParser\GovReestrParser\obj\Debug\GovReestrParser.pdb
